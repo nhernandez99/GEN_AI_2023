@@ -23,10 +23,11 @@ Welcome to my GitHub repository covering generative AI related work! This reposi
 
 ### Technologies
 * Python
-* JupyterNotebook
+* Jupyter Notebook
+* Google Colab
 * TensorFlow
 * PyTorch
-* TensorFlow
+* Keras
 * R
 
 ## Project Description
