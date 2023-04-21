@@ -1,4 +1,4 @@
-# GenerativeAI 2023
+# Artificial Imagination with Generative AI in 2023
 
 #### -- Project Status: [Active, On-Hold, Completed]
 
