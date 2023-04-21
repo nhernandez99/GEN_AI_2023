@@ -1,4 +1,4 @@
-# Project Name
+# GenerativeAI 2023
 
 #### -- Project Status: [Active, On-Hold, Completed]
 
@@ -11,11 +11,15 @@ Welcome to my GitHub repository covering generative AI related work! This reposi
 |Nina Hernandez | [nhernandez99](https://github.com/nhernandez99)| [nhernandez99.github.io](https://nhernandez99.github.io/)  |
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
+* Generative Adversarial Networks (GANs)
+* Variational Autoencoders (VAEs)
+* Deep Convolutional Generative Adversarial Networks (DCGANs)
+* Conditional Generative Adversarial Networks (cGANs)
+* Cycle-Consistent Adversarial Networks (CycleGANs)
+* Style Transfer
+* Neural Style Transfer
+* Deep Dream
+* CLIP (Contrastive Language-Image Pre-Training)
 
 ### Technologies
 * Python
